@@ -1,2 +1,3 @@
 # scheduling-program
-English teacher schedule management -- search for available teachers, automated scheduling emails, and front end to look up teachers' monthly schedules
+ Python English teacher schedule management -- from an Excel file, search for available teachers, send automated scheduling emails to all teachers, and look up teachers' monthly schedules
+
