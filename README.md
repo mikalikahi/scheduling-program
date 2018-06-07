@@ -6,4 +6,4 @@ Ideas for updates and revisions:
 2.) Make the window size adjustable and make a scrollbar
 3.) Raising exceptions in GUI for input errors ie. invalid emails etc.
 4.) Set up a status bar which will pop up at the top level of the GUI and run while the emails are being sent
-5.) Find a way to not repeat the GUI variables – or at least minimize their repetition without making them global variables
+5.) Find a way to not repeat the GUI variables – or at least minimize their repetition without making them global variables -- try doing this by making subclasses that will inherit the variables from the parent class
